@@ -9,7 +9,7 @@
 #
 Name     : pypi-passlib
 Version  : 1.7.4
-Release  : 5
+Release  : 6
 URL      : https://pypi.python.org/packages/source/p/passlib/passlib-1.7.4.tar.gz
 Source0  : https://pypi.python.org/packages/source/p/passlib/passlib-1.7.4.tar.gz
 Source1  : https://pypi.python.org/packages/source/p/passlib/passlib-1.7.4.tar.gz.asc
